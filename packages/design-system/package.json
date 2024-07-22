@@ -1,0 +1,13 @@
+{
+  "name": "design-system",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./package.json": "./package.json",
+    ".": "./src/entry.ts"
+  },
+  "dependencies": {
+    "vue": "catalog:"
+  }
+}

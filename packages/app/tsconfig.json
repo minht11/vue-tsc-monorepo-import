@@ -1,0 +1,12 @@
+{
+  "extends": "../../tsconfig.options.json",
+  "compilerOptions": {
+    "lib": ["esnext", "DOM", "DOM.Iterable"],
+    "outDir": "../../.moon/cache/types/packages/app"
+  },
+  "references": [
+    {
+      "path": "../design-system"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+packages:
+  - "packages/*"
+
+catalog:
+  vue: "3.4.33"

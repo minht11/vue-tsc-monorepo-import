@@ -1,0 +1,6 @@
+{
+	"editor.formatOnSave": true,
+	"npm.packageManager": "pnpm",
+	"yaml.validate": false,
+	"typescript.tsdk": "node_modules/typescript/lib"
+}

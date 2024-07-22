@@ -1,0 +1,22 @@
+{
+  "name": "comet-vpn-fe",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "IPRoyal",
+  "license": "ISC",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "typecheck": "pnpm --filter app run typecheck"
+  },
+  "devDependencies": {
+    "typescript": "5.5.3",
+    "vue": "catalog:",
+    "vue-tsc": "2.0.28"
+  },
+  "packageManager": "pnpm@9.6.0",
+  "engines": {
+    "node": "20.11.1"
+  }
+}

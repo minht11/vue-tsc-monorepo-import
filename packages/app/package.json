@@ -1,0 +1,13 @@
+{
+  "name": "app",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "typecheck": "vue-tsc -b"
+  },
+  "dependencies": {
+    "design-system": "workspace:*",
+    "vue": "catalog:"
+  }
+}
